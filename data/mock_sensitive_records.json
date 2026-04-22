@@ -1,0 +1,25 @@
+{
+  "notice": "This file contains mock, non-real data for security testing/training. Do NOT treat as real secrets or PII.",
+  "records": [
+    {
+      "userId": "demo_user_001",
+      "loginId": "demo.login+001@example.invalid",
+      "displayName": "Demo User 001",
+      "ipAddress": "203.0.113.10",
+      "passwordHint": "NOT_A_REAL_PASSWORD_001",
+      "birthDate": "1900-01-01",
+      "cardNumber": "9999-0000-0000-0001",
+      "internalCode": "FAKE_INTERNAL_CODE_ALPHA_001"
+    },
+    {
+      "userId": "demo_user_002",
+      "loginId": "demo.login+002@example.invalid",
+      "displayName": "Demo User 002",
+      "ipAddress": "198.51.100.23",
+      "passwordHint": "NOT_A_REAL_PASSWORD_002",
+      "birthDate": "1999-12-31",
+      "cardNumber": "1234-5678-9012-3456",
+      "internalCode": "FAKE_INTERNAL_CODE_BETA_002"
+    }
+  ]
+}
